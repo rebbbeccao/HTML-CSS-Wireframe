@@ -27,7 +27,7 @@ body {
 #section {
 	float: left;
 	background-color: #eee;
-	width: 55%;
+	width: 53%;
 	padding-top: 40px;
 	padding-bottom: 50px;
 	margin-right: 30px;
@@ -40,37 +40,42 @@ body {
 	float: right;
 	width: 40%;
 	background-color: #eee;
-	height: 300px;
+	height: 290px;
 
 }
 
 #article {
-	position: relative;
-	top: 100px;
-	left: 15px;
+	position: absolute;
+	top: 310px;
+	left: 22px;
+	padding-top: 20px;
 	background-color: #777;
 	color: #fff;
-	height: 175px;
-	width: 50%;
+	height: 165px;
+	width: 500px;
 
 }
 
 #h1h2h3 {
-	position: relative;
-	top: 5px;
-	left: 30px;
+	position: absolute;
+	top: 365px;
+	left: 36px;
+	padding-top: 15px;
 	background-color: #eee;
-	width: 45%;
-	height: 50px;
+	width: 460px;
+	height: 45px;
 	margin-bottom: 5px;
 }
 
 #p {
-	float: left;
+	position: absolute;
+	top: 435px;
+	left: 38px;
 	background-color: #eee;
-	width: 40%;
-	padding: 20px;
-	margin-top: 5px;
+	padding-top: 15px;
+	width: 465px;
+	height: 45px;
+	margin-bottom: 5px;
 }
 
 
